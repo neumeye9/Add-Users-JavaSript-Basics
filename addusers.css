@@ -1,0 +1,35 @@
+/*CSS reset setting here*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    width: 800px;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+form{
+    width: 240px;
+    margin-top: 20px;
+}
+#first_name{
+    margin-top: 10px;
+}
+#last_name{
+    margin-top: 10px; 
+}
+#email{
+    margin-top: 10px;
+}
+#number{
+    margin-top: 10px;
+}
+#users{
+    margin-top: 20px;
+    background-color: gray;
+    border-radius: 10px;
+    width: 70px;
+}
